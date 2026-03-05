@@ -1,0 +1,6 @@
+<solution>
+  <project name="PrayerTimes.Host" path="PrayerTimes.Host\PrayerTimes.Host.csproj" />
+  <project name="PrayerTimes.Shared" path="PrayerTimes.Shared\PrayerTimes.Shared.csproj" />
+  <project name="PrayerTimes.Calculation" path="PrayerTimes.Calculation\PrayerTimes.Calculation.csproj" />
+  <project name="PrayerTimes.Domain" path="PrayerTimes.Domain\PrayerTimes.Domain.csproj" />
+</solution>
